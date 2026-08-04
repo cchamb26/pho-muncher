@@ -12,10 +12,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cchamb26&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 ---
 
