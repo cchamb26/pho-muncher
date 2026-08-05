@@ -28,7 +28,7 @@
 *[Personal Project]*
 > Full-stack food recommender. GPT-4o analyzes up to 30 recent meals to suggest your next one with reasoning and a simple recipe. TypeScript + Swift + Node.js.
 
-> 💡 **[Interview Prep](http://github.com/cchamb26/local_interview_prep)** - *_[Personal Project]_*
+> 💡 **[Interview Prep](http://github.com/cchamb26/local_prep)** - *_[Personal Project]_*
 > Local interview prep web app to practice OAs in a simulated environment that doesn't rely on the interviewer's platform.
 > Includes 12 problem sets, with a built in tester that also scores and grades your outputs at the end. JavaScript + HTML + Node.js
 
